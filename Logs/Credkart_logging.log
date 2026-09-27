@@ -1,0 +1,16 @@
+2026-09-26 14:01:12,295 - ERROR - test_Credkart_URL_01 - 30 - This is error
+2026-09-26 14:01:12,295 - CRITICAL - test_Credkart_URL_01 - 31 - This is critical
+2026-09-26 14:24:48,549 - ERROR - test_Credkart_URL_01 - 30 - This is error
+2026-09-26 14:24:48,549 - ERROR - test_Credkart_URL_01 - 30 - This is error
+2026-09-26 14:24:48,549 - CRITICAL - test_Credkart_URL_01 - 31 - This is critical
+2026-09-26 14:24:48,549 - CRITICAL - test_Credkart_URL_01 - 31 - This is critical
+2026-09-26 18:57:10,131 - ERROR - test_Credkart_URL_001 - 29 - This is error
+2026-09-26 18:57:10,133 - CRITICAL - test_Credkart_URL_001 - 30 - This is critical
+2026-09-26 19:02:44,713 - ERROR - test_Credkart_URL_001 - 29 - This is error
+2026-09-26 19:02:44,713 - CRITICAL - test_Credkart_URL_001 - 30 - This is critical
+2026-09-26 19:08:17,924 - ERROR - test_Credkart_URL_001 - 29 - This is error
+2026-09-26 19:08:17,924 - CRITICAL - test_Credkart_URL_001 - 30 - This is critical
+2026-09-26 19:44:54,762 - ERROR - test_Credkart_URL_001 - 35 - This is error
+2026-09-26 19:44:54,763 - CRITICAL - test_Credkart_URL_001 - 36 - This is critical
+2026-09-26 19:48:00,377 - ERROR - test_Credkart_URL_001 - 35 - This is error
+2026-09-26 19:48:00,377 - CRITICAL - test_Credkart_URL_001 - 36 - This is critical
